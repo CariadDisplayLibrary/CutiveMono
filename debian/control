@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: CutiveMono.h
-Description: CutiveMono font for DisplayCore
+Description: CutiveMono
