@@ -1,7 +1,7 @@
 #ifndef _CUTIVEMONO_H
 #define _CUTIVEMONO_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t CutiveMono10[];
